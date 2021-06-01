@@ -1,0 +1,30 @@
+.showlist{
+    font-style: initial;
+    font-size: 20px;
+    font-display: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 187, 0);
+    width: 300px;
+    height: 50px;
+    margin: 30px;
+    border-radius: 10px;
+    
+}
+
+.showlist p{
+    padding: 10px;
+    position: relative;
+}
+
+.showlist p button{
+    border: 0px;
+  width: 50px;
+  height: 30px;
+  background-color: rgb(247, 222, 245);
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight:bold;
+  position:absolute;
+  right: 10px;
+  color: rgb(0, 0, 0);
+}
